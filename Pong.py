@@ -1,3 +1,8 @@
+"""
+Author: github.com/Ariocodes
+The pong game.
+"""
+
 import turtle
 # import os
 # Mac = os.system('afplay bounce.wav&')
